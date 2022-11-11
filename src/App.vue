@@ -8,7 +8,7 @@
         <h1 class="text-xl sm:text-3xl my-4 text-white">Saturday, December 3, 2022</h1>
       </header>
 
-      <main class="bg-gray-100 p-4 sm:p-10 h-full">
+      <main class="bg-gray-100 p-4 sm:pt-10 sm:px-10 sm:pb-4 h-full">
         <div class="grid grid-cols-1 gap-y-10">
           <div class="col-span-1 rounded-lg shadow-md p-6 bg-indigo-50 text-center">
             <h2 class="text-2xl sm:text-3xl text-gray-900">Food and Diaper Drive</h2>
@@ -21,6 +21,22 @@
               November 30 and Thursday, December 1 between 4pm and 7pm.
             </p>
             <p class="text-gray-500 mb-3 mt-2 text-lg"></p>
+          </div>
+        </div>
+
+        <div class="flex flex-col mb-6 mt-10 bg-white rounded-lg shadow-md p-6">
+          <div class="flex flex-col sm:flex-row items-center">
+            <div class="flex flex-col">
+              <div class="text-green-600 text-3xl">Tree Decorating</div>
+              <div class="text-gray-400">
+                Villagers can bring ornaments to place on the village tree beginning the day after Thanksgiving, November 25th. Please avoid placing
+                ornaments on lighting wires. All ornaments should be removed by Saturday, January 8th
+              </div>
+            </div>
+
+            <div class="">
+              <img src="./assets/christmas-tree.png" alt="Christmas Tree" class="w-1/2 mx-auto" />
+            </div>
           </div>
         </div>
 
@@ -246,6 +262,10 @@
 
         <div class="mt-10">
           <img src="./assets/ginger-bread.png" class="mx-auto w-full sm:w-1/2" />
+        </div>
+
+        <div class="mt-10">
+          <p class="text-gray-400 text-right">Illustrations by <span class="text-green-600">Carina Haythorn</span>, Cape Cod Tech DVC</p>
         </div>
       </main>
     </div>
