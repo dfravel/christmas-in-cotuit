@@ -40,7 +40,8 @@
           </div>
         </div>
 
-        <div class="flex flex-col mb-6 mt-10 bg-white rounded-lg shadow-md p-6">
+        <div class="text-center text-red-500 px-10 sm:px-0 text-3xl sm:text-4xl mt-14">Saturday, December 3 Schedule of Events</div>
+        <div class="flex flex-col mb-6 mt-2 bg-white rounded-lg shadow-md p-6">
           <div>
             <div class="text-green-600 text-3xl">10:00am</div>
           </div>
