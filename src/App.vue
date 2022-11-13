@@ -24,8 +24,8 @@
               <h2 class="text-2xl sm:text-4xl text-gray-900 font-christmas">Food and Diaper Drive</h2>
               <h2 class="text-xl sm:text-2xl text-gray-600 mt-1 font-christmas">Wednesday, November 30th and Thursday, December 1st</h2>
               <p class="text-gray-500 mb-3 mt-2 text-lg">
-                Villagers We're holding a food and diaper drive to benefit the Cotuit Federated Church, Christ the King Food Pantry, and Housing
-                Assistance Corporation. Please bring non-perishable food items and diapers to the
+                We're holding a food and diaper drive to benefit the Cotuit Federated Church, Christ the King Food Pantry, and Housing Assistance
+                Corporation. Please bring non-perishable food items and diapers to the
                 <a href="https://goo.gl/maps/YYpZbXFULAqtYQH47" target="_blank" class="text-red-400 hover:underline">Fire Station</a> or
                 <a href="https://goo.gl/maps/EEK7bnubQzbSn9eZ8" target="_blank" class="text-red-400 hover:underline">Freedom Hall</a> on Wednesday,
                 November 30th and Thursday, December 1st between 4pm and 7pm.
