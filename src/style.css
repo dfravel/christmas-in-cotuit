@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "Christmas";
+  src: url("./fonts/ADELIA.ttf");
+}
+
+.time-headings {
+  @apply text-gray-600 text-lg font-semibold;
+}
