@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div class="h-full w-screen bg-skyBlue-500 font-sans text-lg">
+  <div class="h-full w-screen bg-skyBlue-500 font-sans text-base sm:text-lg">
     <div class="header">
       <flex class="flex flex-row">
         <img src="./assets/christmas-lights-short.png" class="w-1/4" />
@@ -21,8 +21,8 @@
         <main class="bg-gray-100 p-4 sm:pt-10 sm:px-10 sm:pb-4 h-full">
           <div class="grid grid-cols-1 gap-y-10">
             <div class="col-span-1 rounded-lg shadow-md p-6 bg-indigo-50 text-center">
-              <h2 class="text-2xl sm:text-4xl text-gray-900 font-christmas">Food and Diaper Drive</h2>
-              <h2 class="text-xl sm:text-2xl text-gray-600 mt-1 font-christmas">Wednesday, November 30th and Thursday, December 1st</h2>
+              <h2 class="text-4xl text-gray-900 font-christmas">Food and Diaper Drive</h2>
+              <h2 class="text-2xl text-gray-600 mt-1 font-christmas">Wednesday, November 30th and Thursday, December 1st</h2>
               <p class="text-gray-500 mb-3 mt-2 text-lg">
                 We're holding a food and diaper drive to benefit the Cotuit Federated Church, Christ the King Food Pantry, and Housing Assistance
                 Corporation. Please bring non-perishable food items and diapers to the
@@ -111,7 +111,7 @@
             <ul class="divide-y divide-gray-200">
               <li class="py-3">
                 <div class="flex flex-col">
-                  <div class="time-headings">10:30 - 1:30</div>
+                  <div class="time-headings">10:30am - 1:30pm</div>
                   <div class="text-gray-500">Cotuit Library Cookie decorating for all ages</div>
                 </div>
               </li>
@@ -186,7 +186,7 @@
             <ul class="divide-y divide-gray-200">
               <li class="py-3">
                 <div class="flex flex-col">
-                  <div class="time-headings">1:30pm - ??</div>
+                  <div class="time-headings">1:30pm</div>
                   <div class="text-gray-500">
                     At the Cotuit Library Merry Quizmas! Family Holiday Trivia - Form a team to compete with others! Sign up in advance. 508-428-8141
                     for information.
@@ -222,7 +222,7 @@
             <ul class="divide-y divide-gray-200">
               <li class="py-3">
                 <div class="flex flex-col">
-                  <div class="time-headings">3:00pm - 5:00m</div>
+                  <div class="time-headings">3:00pm - 5:00pm</div>
                   <div class="text-gray-500">Hot Chocolate at the Village Green by Cotuit Fresh Market on the Village Green.</div>
                 </div>
               </li>
