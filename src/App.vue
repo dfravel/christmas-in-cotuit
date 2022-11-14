@@ -306,7 +306,10 @@
           </div>
 
           <div class="mt-10">
-            <p class="text-gray-500 text-right">Illustrations by <span class="text-green-600">Carina Haythorn</span>, Cape Cod Tech DVC</p>
+            <p class="text-gray-500 text-right">
+              Illustrations by <span class="text-green-600">Carina Haythorn</span>,
+              <a href="https://www.capetechdvc.com/" target="_blank" class="text-red-500">Cape Tech DVC</a>
+            </p>
           </div>
         </main>
       </div>
