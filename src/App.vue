@@ -257,6 +257,10 @@
                     Santa's Arrival by Boat at the Town Dock followed by Tree Lighting and Caroling on the Cotuit Village Green: Invocation by Pastor
                     Angela.
                   </div>
+
+                  <div>
+                    <img src="./assets/santa-town-dock.jpg" alt="" class="my-6 border-[20px] border-white rounded-lg shadow-sm" />
+                  </div>
                 </div>
               </li>
             </ul>
