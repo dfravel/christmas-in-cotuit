@@ -20,6 +20,20 @@
 
         <main class="bg-gray-100 p-4 sm:pt-10 sm:px-10 sm:pb-4 h-full">
           <div class="grid grid-cols-1 gap-y-10">
+            <div class="col-span-1 rounded-lg shadow-md p-6 bg-red-50 text-center border-t-2 border-red-500 border-b-2 border-b-red-500">
+              <h2 class="text-4xl font-christmas text-red-600">Important Announcement</h2>
+
+              <p class="text-red-500 mb-3 mt-2 text-xl text-left">
+                All indoor events will still be occurring on Saturday as scheduled at HSSC, Library, Fire Department, Cahoon and Freedom Hall.
+              </p>
+
+              <p class="text-red-500 mb-3 mt-2 text-xl text-left">
+                SANTA's arrival at Town Dock and the lighting of the Christmas tree has been RESCHEDULED to SUNDAY December 4th at 3:45 (same time).
+              </p>
+
+              <p class="text-red-500 mb-3 mt-2 text-xl text-left">We hope everyone will still be able to come and enjoy this festive celebration.</p>
+            </div>
+
             <div class="col-span-1 rounded-lg shadow-md p-6 bg-indigo-50 text-center">
               <h2 class="text-4xl text-gray-900 font-christmas">Food and Diaper Drive</h2>
               <h2 class="text-2xl text-gray-600 mt-1 font-christmas">Wednesday, November 30th and Thursday, December 1st</h2>
@@ -231,14 +245,17 @@
 
           <div class="flex flex-col mb-6 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
             <div>
-              <div class="text-green-600 text-4xl font-christmas">3:30pm</div>
+              <div class="text-red-600 text-4xl font-christmas">Sunday 3:30pm</div>
             </div>
 
             <ul class="divide-y divide-gray-200">
               <li class="py-3">
                 <div class="flex flex-col">
                   <div class="time-headings">3:30pm</div>
-                  <div class="text-gray-500">At the Town Dock - DJ Lisa Z and Pizza by Zoe Pizza of Mashpee</div>
+                  <div class="text-gray-500">
+                    At the Town Dock - DJ Lisa Z and Pizza by Zoe Pizza of Mashpee.
+                    <span class="text-red-500">Please note that this is now moving to Sunday</span>
+                  </div>
                 </div>
               </li>
             </ul>
@@ -246,7 +263,7 @@
 
           <div class="flex flex-col mb-6 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
             <div>
-              <div class="text-green-600 text-4xl font-christmas">3:45pm</div>
+              <div class="text-red-600 text-4xl font-christmas">Sunday 3:45pm</div>
             </div>
 
             <ul class="divide-y divide-gray-200">
@@ -255,7 +272,7 @@
                   <div class="time-headings">3:45pm</div>
                   <div class="text-gray-500">
                     Santa's Arrival by Boat at the Town Dock followed by Tree Lighting and Caroling on the Cotuit Village Green: Invocation by Pastor
-                    Angela.
+                    Angela. <span class="text-red-500">Please note that this is now moving to Sunday</span>
                   </div>
 
                   <div>
@@ -268,7 +285,7 @@
 
           <div class="flex flex-col mb-44 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
             <div>
-              <div class="text-green-600 text-4xl font-christmas">4:00pm</div>
+              <div class="text-red-600 text-4xl font-christmas">Sunday 4:00pm</div>
             </div>
 
             <ul class="divide-y divide-gray-200">
@@ -277,7 +294,8 @@
                   <div class="time-headings">4:00pm</div>
                   <div class="text-gray-500">
                     Cotuit Federated Church will serve cookies by the tree this year at the Village Christmas Tree at 4pm. Cookies from the community
-                    can be dropped off at the Church on Friday, December 2nd or Saturday December 3rd from 10:00am – 12:00pm
+                    can be dropped off at the Church on Friday, December 2nd or Saturday December 3rd from 10:00am – 12:00pm.
+                    <span class="text-red-500">Please note that this is now moving to Sunday</span>
                   </div>
                 </div>
               </li>
