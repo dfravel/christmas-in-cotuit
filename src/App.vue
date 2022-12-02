@@ -24,7 +24,8 @@
               <h2 class="text-4xl font-christmas text-red-600">Important Announcement</h2>
 
               <p class="text-red-500 mb-3 mt-2 text-xl text-left">
-                All indoor events will still be occurring on Saturday as scheduled at HSSC, Library, Fire Department, Cahoon and Freedom Hall.
+                All <span class="font-bold uppercase">indoor events will still be occurring on Saturday as scheduled</span> at HSSC, Library, Fire
+                Department, Cahoon, Artisan Craft Show at Freedom Hall, Cotuit Fresh Market Main Street Tastings, and the Cotuit Kettleers Store.
               </p>
 
               <p class="text-red-500 mb-3 mt-2 text-xl text-left">
