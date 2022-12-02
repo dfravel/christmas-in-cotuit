@@ -230,14 +230,17 @@
 
           <div class="flex flex-col mb-6 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
             <div>
-              <div class="text-green-600 text-4xl font-christmas">3:00pm</div>
+              <div class="text-red-600 text-4xl font-christmas">Sunday 3:00pm</div>
             </div>
 
             <ul class="divide-y divide-gray-200">
               <li class="py-3">
                 <div class="flex flex-col">
                   <div class="time-headings">3:00pm - 5:00pm</div>
-                  <div class="text-gray-500">Hot Chocolate at the Village Green by Cotuit Fresh Market on the Village Green.</div>
+                  <div class="text-gray-500">
+                    Hot Chocolate at the Village Green by Cotuit Fresh Market on the Village Green.
+                    <span class="text-red-500">Please note that this is now moving to Sunday</span>
+                  </div>
                 </div>
               </li>
             </ul>
