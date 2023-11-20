@@ -15,12 +15,18 @@
       <div class="max-w-6xl mx-6 sm:mx-auto rounded-t-lg shadow-xl bg-skyBlue-500 sm:-mt-32">
         <header class="mx-auto text-center z-100">
           <img src="./assets/christmas-in-cotuit.png" alt="Christmas in Cotuit" class="w-1/2 mx-auto" />
-          <h1 class="text-xl sm:text-3xl my-4 text-white font-christmas">Saturday, December 3rd, 2022</h1>
+          <h1 class="text-xl sm:text-3xl my-4 text-white font-christmas">Saturday, December 2nd, 2023</h1>
         </header>
 
         <main class="bg-gray-100 p-4 sm:pt-10 sm:px-10 sm:pb-4 h-full">
           <div class="grid grid-cols-1 gap-y-10">
-            <div class="col-span-1 rounded-lg shadow-md p-6 bg-red-50 text-center border-t-2 border-red-500 border-b-2 border-b-red-500">
+            <div class="col-span-1 rounded-lg shadow-md p-6 bg-indigo-50 text-center">
+              <div>
+                <img src="./assets/santa-town-dock.jpg" alt="" class="my-6 border-[20px] border-white rounded-lg shadow-sm" />
+              </div>
+            </div>
+
+            <!-- <div class="col-span-1 rounded-lg shadow-md p-6 bg-red-50 text-center border-t-2 border-red-500 border-b-2 border-b-red-500">
               <h2 class="text-4xl font-christmas text-red-600">Important Announcement</h2>
 
               <p class="text-red-500 mb-3 mt-2 text-xl text-left">
@@ -33,17 +39,16 @@
               </p>
 
               <p class="text-red-500 mb-3 mt-2 text-xl text-left">We hope everyone will still be able to come and enjoy this festive celebration.</p>
-            </div>
+            </div>  -->
 
             <div class="col-span-1 rounded-lg shadow-md p-6 bg-indigo-50 text-center">
               <h2 class="text-4xl text-gray-900 font-christmas">Food and Diaper Drive</h2>
-              <h2 class="text-2xl text-gray-600 mt-1 font-christmas">Wednesday, November 30th and Thursday, December 1st</h2>
+              <h2 class="text-2xl text-gray-600 mt-1 font-christmas">Monday, November 27th through Saturday, December 2nd</h2>
               <p class="text-gray-500 mb-3 mt-2 text-lg">
-                We're holding a food and diaper drive to benefit the Cotuit Federated Church, Christ the King Food Pantry, and Housing Assistance
-                Corporation. Please bring non-perishable food items and diapers to the
-                <a href="https://goo.gl/maps/YYpZbXFULAqtYQH47" target="_blank" class="text-red-400 hover:underline">Fire Station</a> or
-                <a href="https://goo.gl/maps/EEK7bnubQzbSn9eZ8" target="_blank" class="text-red-400 hover:underline">Freedom Hall</a> on Wednesday,
-                November 30th and Thursday, December 1st between 4pm and 7pm.
+                Our Diapers and Wipes Drive to benefit the Housing Assistance Corporation and A Baby Center runs from Monday, November 27 through
+                Saturday, December 2. You may drop off donations at the
+                <a href="https://goo.gl/maps/YYpZbXFULAqtYQH47" target="_blank" class="text-red-400 hover:underline">Cotuit Fire Station</a> all week,
+                or bring them to the Community Hall at Cotuit Federated Church on December 2.
               </p>
               <p class="text-gray-500 mb-3 mt-2 text-lg"></p>
             </div>
@@ -54,8 +59,8 @@
               <div class="flex flex-col">
                 <div class="text-green-600 text-4xl font-christmas">Tree Decorating</div>
                 <div class="text-gray-500 text-lg">
-                  Villagers can bring ornaments to place on the village tree beginning the day after Thanksgiving, November 25th. Please avoid placing
-                  ornaments on lighting wires. All ornaments should be removed by Saturday, January 8th.
+                  Villagers can bring ornaments to place on the village tree beginning the day after Thanksgiving, November 24th. Please avoid placing
+                  ornaments on lighting wires. All ornaments should be removed by Saturday, January 6th.
                 </div>
               </div>
 
@@ -73,7 +78,7 @@
           </flex>
 
           <div class="text-center text-red-500 px-10 sm:px-0 text-3xl sm:text-4xl mt-14 font-christmas">
-            Saturday, December 3rd Schedule of Events
+            Saturday, December 2nd Schedule of Events
           </div>
           <div class="flex flex-col mb-6 mt-2 bg-indigo-50 rounded-lg shadow-md p-6">
             <div>
@@ -83,10 +88,28 @@
             <ul class="divide-y divide-gray-200">
               <li class="py-3">
                 <div class="flex flex-col">
-                  <div class="time-headings">10:00am - 12:00pm</div>
+                  <div class="time-headings">10:00am - 2:00pm</div>
                   <div class="text-gray-500">
-                    Historical Society: Bring the children to paint a wooden ornament for your tree and enjoy roasted marshmallows and s'mores. Come
-                    early as this is a popular event. Seating is limited.
+                    Historical Society: Bring the kids to paint a wooden ornament for your tree (until noon). Play lawn games and enjoy roasted
+                    marshmallows, cider, and s’mores around the firepit until 2:00.
+                  </div>
+                </div>
+              </li>
+
+              <li class="py-3">
+                <div class="flex flex-col">
+                  <div class="time-headings">10:00am – 3:00pm</div>
+                  <div class="text-gray-500">
+                    Cotuit Federated Church: the Women's Fellowship Gift Basket sale (until 2:00) and the 22nd annual show and sale of small works by
+                    local artists and photographers. Give art for the holidays.
+                  </div>
+                </div>
+              </li>
+              <li class="py-3">
+                <div class="flex flex-col">
+                  <div class="time-headings">10:00am – 4:00pm</div>
+                  <div class="text-gray-500">
+                    Artisan Craft Fair at Freedom Hall: artists, pottery, jewelry, wreaths, shell art, soaps, honey, and much more
                   </div>
                 </div>
               </li>
@@ -95,16 +118,8 @@
                 <div class="flex flex-col">
                   <div class="time-headings">10:00am – 4:00pm</div>
                   <div class="text-gray-500">
-                    Artisan Craft Show at Freedom Hall:14 artists, pottery, jewelry, wreaths, shell art, soaps, honey and more.
-                  </div>
-                </div>
-              </li>
-              <li class="py-3">
-                <div class="flex flex-col">
-                  <div class="time-headings">10:00am – 4:00pm</div>
-                  <div class="text-gray-500">
-                    Historical Society – Visit the Gift Shop where you will find new and unique items for the holidays as well as our great selection
-                    of "Cotuit-wear."
+                    Winter Open House at the Cahoon Museum. Explore amazing exhibits, try your hand at holiday art projects, and enjoy seasonal
+                    treats. Free admission.
                   </div>
                 </div>
               </li>
@@ -112,7 +127,9 @@
               <li class="py-3">
                 <div class="flex flex-col">
                   <div class="time-headings">10:00am – 4:00pm</div>
-                  <div class="text-gray-500">Free Admission Cahoon Museum of American Art Winter Open House, family friendly activities.</div>
+                  <div class="text-gray-500">
+                    Visit the Historical Society Gift Shop for new and unique items for the holidays. 20% discount on home décor items.
+                  </div>
                 </div>
               </li>
             </ul>
@@ -127,7 +144,9 @@
               <li class="py-3">
                 <div class="flex flex-col">
                   <div class="time-headings">10:30am - 1:30pm</div>
-                  <div class="text-gray-500">Cotuit Library Cookie decorating for all ages</div>
+                  <div class="text-gray-500">
+                    All aboard the Cotuit Library Polar Express. First stop: Decorate cookies and fill up on hot chocolate with Santa’s many helpers.
+                  </div>
                 </div>
               </li>
             </ul>
@@ -139,7 +158,7 @@
             <ul class="divide-y divide-gray-200">
               <li class="py-3">
                 <div class="flex flex-col">
-                  <div class="time-headings">11:00am - 2:00pm</div>
+                  <div class="time-headings">11:00am - 1:00pm</div>
                   <div class="text-gray-500">The Cotuit Kettleers Store will be open! Great chance for holiday gifts for family & friends.</div>
                 </div>
               </li>
@@ -162,32 +181,7 @@
               <li class="py-3">
                 <div class="flex flex-col">
                   <div class="time-headings">12:00pm - 2:00pm</div>
-                  <div class="text-gray-500">
-                    Cotuit Fire Station Open House. Chili is back! And the Fire Department will again be collecting new, unwrapped toy donations for
-                    Toys for Tot during Christmas in Cotuit until December 14th.
-                  </div>
-                </div>
-              </li>
-
-              <li class="py-3">
-                <div class="flex flex-col">
-                  <div class="time-headings">12:00pm -4:00pm</div>
-                  <div class="text-gray-500">Historical Society Guided Homestead Tours (weather permitting).</div>
-                </div>
-              </li>
-            </ul>
-          </div>
-
-          <div class="flex flex-col mb-6 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
-            <div>
-              <div class="text-green-600 text-4xl font-christmas">1:00pm</div>
-            </div>
-
-            <ul class="divide-y divide-gray-200">
-              <li class="py-3">
-                <div class="flex flex-col">
-                  <div class="time-headings">1:00pm - 3:00pm</div>
-                  <div class="text-gray-500">Cahoon Museum Artists' Reception for Andrea Moore and Pauline Lim.</div>
+                  <div class="text-gray-500">Cotuit Fire Station Open House. Stop by for chili and tour the new ambulance.</div>
                 </div>
               </li>
             </ul>
@@ -201,10 +195,10 @@
             <ul class="divide-y divide-gray-200">
               <li class="py-3">
                 <div class="flex flex-col">
-                  <div class="time-headings">1:30pm</div>
+                  <div class="time-headings">1:30pm - 2:30pm</div>
                   <div class="text-gray-500">
-                    At the Cotuit Library Merry Quizmas! Family Holiday Trivia - Form a team to compete with others! Sign up in advance. 508-428-8141
-                    for information.
+                    Cotuit Library, next stop: Escape from Santa’s workshop. Compete in challenges and follow clues to find Santa’s missing sleigh
+                    bell.
                   </div>
                 </div>
               </li>
@@ -221,8 +215,8 @@
                 <div class="flex flex-col">
                   <div class="time-headings">2:30pm - 3:30pm</div>
                   <div class="text-gray-500">
-                    At the Cotuit Library Reindeer Games - Minute to Win It, Holiday edition. 60 second challenges with holiday flair! Hot cocoa on
-                    patio throughout event
+                    Cotuit Library, final stop: Play Christmas trivia and win prizes. Children who participate in all three “stops” can choose their
+                    first gift of Christmas.
                   </div>
                 </div>
               </li>
@@ -231,17 +225,14 @@
 
           <div class="flex flex-col mb-6 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
             <div>
-              <div class="text-red-600 text-4xl font-christmas">Sunday 3:00pm</div>
+              <div class="text-green-600 text-4xl font-christmas">3:00pm</div>
             </div>
 
             <ul class="divide-y divide-gray-200">
               <li class="py-3">
                 <div class="flex flex-col">
                   <div class="time-headings">3:00pm - 5:00pm</div>
-                  <div class="text-gray-500">
-                    Hot Chocolate at the Village Green by Cotuit Fresh Market on the Village Green.
-                    <span class="text-red-500">Please note that this is now moving to Sunday</span>
-                  </div>
+                  <div class="text-gray-500">Hot chocolate in Memorial Park, courtesy of Cotuit Fresh Market</div>
                 </div>
               </li>
             </ul>
@@ -249,7 +240,7 @@
 
           <div class="flex flex-col mb-6 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
             <div>
-              <div class="text-red-600 text-4xl font-christmas">Sunday 3:30pm</div>
+              <div class="text-green-600 text-4xl font-christmas">3:30pm</div>
             </div>
 
             <ul class="divide-y divide-gray-200">
@@ -257,8 +248,7 @@
                 <div class="flex flex-col">
                   <div class="time-headings">3:30pm</div>
                   <div class="text-gray-500">
-                    At the Town Dock - DJ Lisa Z and Pizza by Zoe Pizza of Mashpee.
-                    <span class="text-red-500">Please note that this is now moving to Sunday</span>
+                    At the Town Dock: DJ Lisa Z and Pizza by Zoe Pizza of Mashpee, courtesy of the Cotuit-Santuit Civic Association
                   </div>
                 </div>
               </li>
@@ -267,7 +257,7 @@
 
           <div class="flex flex-col mb-6 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
             <div>
-              <div class="text-red-600 text-4xl font-christmas">Sunday 3:45pm</div>
+              <div class="text-green-600 text-4xl font-christmas">3:45pm</div>
             </div>
 
             <ul class="divide-y divide-gray-200">
@@ -275,13 +265,13 @@
                 <div class="flex flex-col">
                   <div class="time-headings">3:45pm</div>
                   <div class="text-gray-500">
-                    Santa's Arrival by Boat at the Town Dock followed by Tree Lighting and Caroling on the Cotuit Village Green: Invocation by Pastor
-                    Angela. <span class="text-red-500">Please note that this is now moving to Sunday</span>
+                    Santa’s arrival by boat at the Town Dock, followed by tree lighting (lights installed by Bartlett Tree) and visits with Santa in
+                    Memorial Park
                   </div>
 
-                  <div>
+                  <!-- <div>
                     <img src="./assets/santa-town-dock.jpg" alt="" class="my-6 border-[20px] border-white rounded-lg shadow-sm" />
-                  </div>
+                  </div> -->
                 </div>
               </li>
             </ul>
@@ -289,17 +279,16 @@
 
           <div class="flex flex-col mb-44 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
             <div>
-              <div class="text-red-600 text-4xl font-christmas">Sunday 4:00pm</div>
+              <div class="text-green-600 text-4xl font-christmas">4:00pm</div>
             </div>
 
             <ul class="divide-y divide-gray-200">
               <li class="py-3">
                 <div class="flex flex-col">
-                  <div class="time-headings">4:00pm</div>
+                  <div class="time-headings">4:00pm-5:00pm</div>
                   <div class="text-gray-500">
-                    Cotuit Federated Church will serve cookies by the tree this year at the Village Christmas Tree at 4pm. Cookies from the community
-                    can be dropped off at the Church on Friday, December 2nd or Saturday December 3rd from 10:00am – 12:00pm.
-                    <span class="text-red-500">Please note that this is now moving to Sunday</span>
+                    Open House with cookies in the Cotuit Federated Church Community Hall. Enter from High Street or through the patio doors from
+                    Memorial Park.
                   </div>
                 </div>
               </li>
@@ -327,12 +316,12 @@
             </div>
           </div>
 
-          <div class="mt-10">
+          <!-- <div class="mt-10">
             <p class="text-gray-500 text-right">
               Illustrations by <span class="text-green-600">Carina Haythorn</span>,
               <a href="https://www.capetechdvc.com/" target="_blank" class="text-red-500">Cape Tech DVC</a>
             </p>
-          </div>
+          </div> -->
         </main>
       </div>
     </div>
