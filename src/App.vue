@@ -15,7 +15,7 @@
       <div class="max-w-6xl mx-6 sm:mx-auto rounded-t-lg shadow-xl bg-skyBlue-500 sm:-mt-32">
         <header class="mx-auto text-center z-100">
           <img src="./assets/christmas-in-cotuit.png" alt="Christmas in Cotuit" class="w-1/2 mx-auto" />
-          <h1 class="text-xl sm:text-3xl my-4 text-white font-christmas">Saturday, December 2nd, 2023</h1>
+          <h1 class="text-xl sm:text-3xl my-4 text-white font-christmas">Saturday, December 7th, 2024</h1>
         </header>
 
         <main class="bg-gray-100 p-4 sm:pt-10 sm:px-10 sm:pb-4 h-full">
@@ -43,12 +43,12 @@
 
             <div class="col-span-1 rounded-lg shadow-md p-6 bg-indigo-50 text-center">
               <h2 class="text-4xl text-gray-900 font-christmas">Food and Diaper Drive</h2>
-              <h2 class="text-2xl text-gray-600 mt-1 font-christmas">Monday, November 27th through Saturday, December 2nd</h2>
+              <h2 class="text-2xl text-gray-600 mt-1 font-christmas">Monday, December 2nd through Saturday, December 7th</h2>
               <p class="text-gray-500 mb-3 mt-2 text-lg">
-                Our Diapers and Wipes Drive to benefit the Housing Assistance Corporation and A Baby Center runs from Monday, November 27 through
-                Saturday, December 2. You may drop off donations at the
+                Our Diapers and Wipes Drive to benefit the Housing Assistance Corporation and A Baby Center runs from Monday, December 2 through
+                Saturday, December 7. You may drop off donations at the
                 <a href="https://goo.gl/maps/YYpZbXFULAqtYQH47" target="_blank" class="text-red-400 hover:underline">Cotuit Fire Station</a> all week,
-                or bring them to the Community Hall at Cotuit Federated Church on December 2.
+                or bring them to the Community Hall at Cotuit Federated Church on December 7.
               </p>
               <p class="text-gray-500 mb-3 mt-2 text-lg"></p>
             </div>
@@ -59,8 +59,8 @@
               <div class="flex flex-col">
                 <div class="text-green-600 text-4xl font-christmas">Tree Decorating</div>
                 <div class="text-gray-500 text-lg">
-                  Villagers can bring ornaments to place on the village tree beginning the day after Thanksgiving, November 24th. Please avoid placing
-                  ornaments on lighting wires. All ornaments should be removed by Saturday, January 6th.
+                  Villagers can bring ornaments to place on the village tree beginning the day after Thanksgiving (Friday, November 29th). Please avoid placing
+                  ornaments on lighting wires. All ornaments should be removed by Saturday, January 4th.
                 </div>
               </div>
 
@@ -78,7 +78,7 @@
           </flex>
 
           <div class="text-center text-red-500 px-10 sm:px-0 text-3xl sm:text-4xl mt-14 font-christmas">
-            Saturday, December 2nd Schedule of Events
+            Saturday, December 7th Schedule of Events
           </div>
           <div class="flex flex-col mb-6 mt-2 bg-indigo-50 rounded-lg shadow-md p-6">
             <div>
@@ -88,10 +88,10 @@
             <ul class="divide-y divide-gray-200">
               <li class="py-3">
                 <div class="flex flex-col">
-                  <div class="time-headings">10:00am - 2:00pm</div>
+                  <div class="time-headings">10:00am - 3:00pm</div>
                   <div class="text-gray-500">
                     Historical Society: Bring the kids to paint a wooden ornament for your tree (until noon). Play lawn games and enjoy roasted
-                    marshmallows, cider, and s’mores around the firepit until 2:00.
+                    marshmallows, cider, and s’mores around the firepit until 3:00.
                   </div>
                 </div>
               </li>
@@ -100,7 +100,7 @@
                 <div class="flex flex-col">
                   <div class="time-headings">10:00am – 3:00pm</div>
                   <div class="text-gray-500">
-                    Cotuit Federated Church: the Women's Fellowship Gift Basket sale (until 2:00) and the 22nd annual show and sale of small works by
+                    Cotuit Federated Church: the Women's Fellowship Gift Basket sale (until 2:00) and the 23rd annual show and sale of small works by
                     local artists and photographers. Give art for the holidays.
                   </div>
                 </div>
@@ -124,18 +124,18 @@
                 </div>
               </li>
 
-              <li class="py-3">
+              <!-- <li class="py-3">
                 <div class="flex flex-col">
                   <div class="time-headings">10:00am – 4:00pm</div>
                   <div class="text-gray-500">
                     Visit the Historical Society Gift Shop for new and unique items for the holidays. 20% discount on home décor items.
                   </div>
                 </div>
-              </li>
+              </li> -->
             </ul>
           </div>
 
-          <div class="flex flex-col mb-6 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
+          <!-- <div class="flex flex-col mb-6 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
             <div>
               <div class="text-green-600 text-4xl font-christmas">10:30am</div>
             </div>
@@ -150,7 +150,7 @@
                 </div>
               </li>
             </ul>
-          </div>
+          </div> -->
 
           <div class="flex flex-col mb-6 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
             <div class="text-green-600 text-4xl font-christmas">11:00am</div>
@@ -158,8 +158,18 @@
             <ul class="divide-y divide-gray-200">
               <li class="py-3">
                 <div class="flex flex-col">
+                  <div class="time-headings">11:00am - 3:00pm</div>
+                  <div class="text-gray-500">
+                    Cotuit Library: Bring the kids to decorate cookies and fill up on hot chocolate, then participate in a scavenger hunt.
+                  </div>
+                </div>
+              </li>
+
+              <li class="py-3">
+                <div class="flex flex-col">
                   <div class="time-headings">11:00am - 1:00pm</div>
-                  <div class="text-gray-500">The Cotuit Kettleers Store will be open! Great chance for holiday gifts for family & friends.</div>
+                  <div class="text-gray-500">Bring your holiday gift list to the Cotuit Kettleers Store for some Kettleers merch or a personalized paver to be placed in our Walk of
+                    Champions.</div>
                 </div>
               </li>
 
@@ -181,13 +191,13 @@
               <li class="py-3">
                 <div class="flex flex-col">
                   <div class="time-headings">12:00pm - 2:00pm</div>
-                  <div class="text-gray-500">Cotuit Fire Station Open House. Stop by for chili and tour the new ambulance.</div>
+                  <div class="text-gray-500">Cotuit Fire Station Open House. Stop by for chili and learn more about plans for the new firehouse.</div>
                 </div>
               </li>
             </ul>
           </div>
 
-          <div class="flex flex-col mb-6 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
+          <!-- <div class="flex flex-col mb-6 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
             <div>
               <div class="text-green-600 text-4xl font-christmas">1:30pm</div>
             </div>
@@ -203,9 +213,9 @@
                 </div>
               </li>
             </ul>
-          </div>
+          </div> -->
 
-          <div class="flex flex-col mb-6 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
+          <!-- <div class="flex flex-col mb-6 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
             <div>
               <div class="text-green-600 text-4xl font-christmas">2:30pm</div>
             </div>
@@ -221,7 +231,7 @@
                 </div>
               </li>
             </ul>
-          </div>
+          </div> -->
 
           <div class="flex flex-col mb-6 mt-10 bg-indigo-50 rounded-lg shadow-md p-6">
             <div>
